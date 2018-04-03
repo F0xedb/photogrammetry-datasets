@@ -2,7 +2,7 @@
 
 #usage pbfp -i images/ -s scene/
 
-function printHelp{
+function printHelp {
 	echo "--------------------------------------------------------------------------------"
 	echo "Help page"
 	echo ""
